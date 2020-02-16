@@ -9,5 +9,6 @@ To try it out, clone this repo, install dependencies with `yarn` and start the d
 
 ```bash
 yarn
-yarn workspace www start # or yarn start
+yarn workspace www start
+# or yarn start
 ```
