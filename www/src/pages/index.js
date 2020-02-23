@@ -1,5 +1,6 @@
-import React from 'react';
+import React from "react";
+import { Button } from "@chakra-ui/core";
 
 export default function Index() {
-  return <h1>Hi</h1>
+  return <Button variantColor="blue">Hello</Button>;
 }
